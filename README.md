@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhusudhan-rgb&label=Profile%20views&color=0e75b6&style=flat" alt="madhusudhan-rgb" /> </p>
 
-
-
 - 👨‍💻 All of my projects are available at [https://github.com/madhusudhan-rgb](https://github.com/madhusudhan-rgb)
 
 - 📫 How to reach me **madhusudhant207@gmail.com**
+- I dont work for anyone lol i just do this as a hobby
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
