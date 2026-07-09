@@ -7,7 +7,8 @@
 
 - How to reach me **madhusudhant207@gmail.com**
 - I dont work for anyone lol i just do this as a hobby
-
+- Currently learning TSX and CPP
+- Bit of a beginner in Cpp but ill get there
 
 
 <h3 align="left">Languages and Tools:</h3>
