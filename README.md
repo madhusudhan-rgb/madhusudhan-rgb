@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhusudhan-rgb&label=Profile%20views&color=0e75b6&style=flat" alt="madhusudhan-rgb" /> </p>
 
-
-- 👨‍💻 All of my projects are available at [https://github.com/madhusudhan-rgb](https://github.com/madhusudhan-rgb)
-
-- 📫 How to reach me **madhusudhant207@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/airbusissocool102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@airbusissocool102" height="30" width="40" /></a>
 </p>
