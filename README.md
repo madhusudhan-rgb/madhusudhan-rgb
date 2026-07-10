@@ -1,7 +1,3 @@
-<h1 align="center">Hi 👋, I'm Madhusudhan Thapa</h1>
-<h3 align="center">A dude from FL</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhusudhan-rgb&label=Profile%20views&color=0e75b6&style=flat" alt="madhusudhan-rgb" /> </p>
 
 <p align="left">
 <a href="https://www.instagram.com/airbusissocool102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@airbusissocool102" height="30" width="40" /></a>
