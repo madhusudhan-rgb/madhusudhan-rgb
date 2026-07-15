@@ -8,7 +8,6 @@ About me
 - This is more of a hobby for me rather than a passion or a dream thingy
 - I mainly code in Typescript most of the time
 - I do know other languages i learnt myself in my free time and theyre all listed below
-- I am basically chronically online most of the time lol
 
 
 <h3 align="left">Languages and Tools:</h3>
