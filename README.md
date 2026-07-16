@@ -67,8 +67,6 @@ GitHub Stats
 
 <div align="center">
 
-*Made with ❤️ and lots of Stack Overflow tabs*
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=madhusudhan-rgb&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views"/>
 
 </div>
