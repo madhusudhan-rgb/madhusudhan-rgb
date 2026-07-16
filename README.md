@@ -1,4 +1,4 @@
-# Hi, I'm [Madhusudhan Thapa] 👋
+# Hi, I'm Madhusudhan Thapa 👋
 
 **17-year-old developer turning curiosity into code.**
 
