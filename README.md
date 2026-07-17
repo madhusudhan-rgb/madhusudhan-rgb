@@ -15,12 +15,11 @@ It's not my "big dream" — it's just something I genuinely like doing in my fre
 
 About Me
 
-  **Main focus:** TypeScript
-  **Currently exploring:** React, React Native & mobile development
-  **Self-taught** — learning by building
-  I build small-to-medium projects to learn new concepts and ship things I'm proud of
-  Fun fact: my commit history is basically a diary of Stack Overflow tabs I've closed
-
+  **Main focus:** TypeScript<br>
+  **Currently exploring:** React, React Native & mobile development<br>
+  **Self-taught** — learning by building<br>
+  I build small-to-medium projects to learn new concepts and ship things I'm proud of<br>
+ 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Languages & Tools
