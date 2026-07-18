@@ -6,7 +6,7 @@
 </div>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+<img src="https://komarev.com/ghpvc/?username=madhusudhan-rgb&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views"/>
 About Me
 
   **Main focus:** TypeScript<br>
@@ -46,15 +46,8 @@ GitHub Stats
 
 <div align="center">
 
-
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhusudhan-rgb&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-
-
-
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=madhusudhan-rgb&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views"/>
 
 </div>
