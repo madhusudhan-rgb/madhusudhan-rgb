@@ -1,12 +1,6 @@
 <div align="center">
 
 Hi, I'm Madhusudhan Thapa 👋
-
-17-year-old developer turning curiosity into code<br><br>
-
-I code because I enjoy learning and building things.<br><br>
-It's not my "big dream" — it's just something I genuinely like doing in my free time to stay productive and improve.<br><br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Self-taught+developer;TypeScript+%7C+React+%7C+React+Native;Building+small+projects%2C+learning+big+things" alt="Typing SVG" />
 
 </div>
