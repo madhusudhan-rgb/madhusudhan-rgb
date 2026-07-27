@@ -33,13 +33,3 @@ Languages & Tools
   
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madhusudhan-rgb&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<div align="center">
-
-</div>
