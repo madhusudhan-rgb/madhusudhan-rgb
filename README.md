@@ -10,7 +10,7 @@
 About Me
 
   **Main focus:** TypeScript<br>
-  **Currently exploring:** React, React Native & mobile development<br>
+  **Currently exploring:** Python, React, React Native & mobile development<br>
   **Self-taught** — learning by building<br>
   I build small-to-medium projects to learn new concepts and ship things I'm proud of<br>
  
