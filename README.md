@@ -13,6 +13,8 @@ About Me
   **Currently exploring:** Python, React, React Native & mobile development<br>
   **Self-taught** — learning by building<br>
   I build small-to-medium projects to learn new concepts and ship things I'm proud of<br>
+  <a href = "https://github.com/Lumorix-studios"><img src  = "https://chatgpt.com/backend-api/estuary/content?id=file_00000000f5f081f5a3d3a0ac42a3e9dd&ts=495952&p=fs&cid=1&sig=452d07a40da0851f5f32f056a0235ecdf280f8b37b5ee11590b6f8f81189e32d&v=0"/>Join the org, Collaborate and help</a>
+
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
