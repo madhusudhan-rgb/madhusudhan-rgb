@@ -13,7 +13,7 @@ About Me
   **Currently exploring:** Python, React, React Native & mobile development<br>
   **Self-taught** — learning by building<br>
   I build small-to-medium projects to learn new concepts and ship things I'm proud of<br>
-  <a href = "https://github.com/Lumorix-studios"><img src  = "https://github.com/madhusudhan-rgb/madhusudhan-rgb/blob/main/org%20logo.png?raw=true"/>Join the org, Collaborate and help</a>
+  <a href = "https://github.com/Lumorix-studios"><img src  = "https://github.com/madhusudhan-rgb/madhusudhan-rgb/blob/main/org%20logo.png?raw=true" width = 50px height = 50px/>Join the org, Collaborate and help</a>
 
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
