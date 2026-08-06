@@ -83,7 +83,6 @@ Current areas of interest:
 
 - AI-powered applications
 - Mobile development
-- Desktop applications with C++ and Qt
 - Developer tools
 - API integrations
 - Full-stack applications
