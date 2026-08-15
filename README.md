@@ -1,7 +1,5 @@
 <div align="center">
 
-<a href="https://github.com/Lumorix-Studios">Lumorix Studios</a> <br><br>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" height="42" />
