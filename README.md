@@ -1,6 +1,6 @@
 <div align="center">
 
-<p class = "fontsize-12px">Founder of <a href = "https://github.com/ForgeBuilds">FORGE</a>.org</p>
+<p class = "fontsize-12px">Founder and president of <a href = "https://github.com/ForgeBuilds">FORGE</a>.org</p>
 <p class= "fontsize-12px">Open source contributor</p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42" />
